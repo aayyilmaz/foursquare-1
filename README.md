@@ -1,3 +1,5 @@
+##exploring the package
+
 # foursquare
 
 Python wrapper for the [foursquare API](http://developer.foursquare.com/docs/).
