@@ -26,3 +26,4 @@ pip-selfcheck.json
 .project
 *.iml
 
+foursquare/__pycache__/
